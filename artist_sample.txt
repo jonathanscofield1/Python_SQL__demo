@@ -1,0 +1,47 @@
+2252039	fadeb38c-833f-40bc-9d8c-a6383b38b1be	Доктор Сатана	Доктор Сатана	\N	\N	\N	\N	\N	\N	\N	\N	\N		0	2021-11-23 07:08:52.479537+00	f	\N	\N
+371203	49add228-eac5-4de8-836c-d75cde7369c3	Pete Moutso	Moutso, Pete	\N	\N	\N	\N	\N	\N	1	\N	\N		0	\N	f	\N	\N
+273232	c112a400-af49-4665-8bba-741531d962a1	Zachary	Zachary	\N	\N	\N	\N	\N	\N	\N	\N	\N		0	\N	f	\N	\N
+101060	ca3f3ee1-c4a7-4bac-a16a-0b888a396c6b	The Silhouettes	Silhouettes, The	1956	\N	\N	1993	\N	\N	2	222	\N	US doo wop/R&B group "Get a Job"	0	2014-12-18 05:07:38.77749+00	t	7707	\N
+145773	7b4a548e-a01a-49b7-82e7-b49efeb9732c	Aric Leavitt	Leavitt, Aric	\N	\N	\N	\N	\N	\N	\N	\N	\N		0	\N	f	\N	\N
+1076328	60aca66f-e91a-4cb5-9308-b6e293cd833e	Fonograff	Fonograff	\N	\N	\N	\N	\N	\N	\N	\N	\N		0	2014-01-10 16:25:20.992213+00	f	\N	\N
+1172876	3e1bd546-d2a7-49cb-b38d-d70904a1d719	Al Street	Street, Al	\N	\N	\N	\N	\N	\N	1	222	1		0	2014-11-23 14:07:19.782509+00	f	\N	\N
+220155	df120895-f6c6-4a66-b9cf-73350f0beb61	Love .45	Love .45	\N	\N	\N	\N	\N	\N	\N	\N	\N		0	\N	f	\N	\N
+618464	c14f8d3f-ee81-416f-800f-8eff7e77a2e1	Sintellect	Sintellect	\N	\N	\N	\N	\N	\N	\N	\N	\N		0	2009-05-23 09:41:53.269195+00	f	\N	\N
+285714	b68a3969-319a-462f-942b-cd35581414fc	Evie Tamala	Evie Tamala	\N	\N	\N	\N	\N	\N	\N	\N	\N		0	\N	f	\N	\N
+886708	2c8ae2e0-3934-440e-81f5-2ec7fd0d7899	Jean-Pierre Martin	Martin, Jean-Pierre	\N	\N	\N	\N	\N	\N	\N	\N	\N		0	2012-04-22 19:01:53.69375+00	f	\N	\N
+209107	ac63d693-7b24-4258-a3db-09743b1b4269	Deejay One	Deejay One	\N	\N	\N	\N	\N	\N	\N	\N	\N		0	\N	f	\N	\N
+388372	4c4b7c6f-9285-4d6a-bc10-e5c9e08045f8	wecamewithbrokenteeth	wecamewithbrokenteeth	\N	\N	\N	\N	\N	\N	2	\N	\N		0	\N	f	\N	\N
+726151	055f435f-dba6-4156-9050-6ac41113e45f	The Blackbelt Band	Blackbelt Band, The	\N	\N	\N	\N	\N	\N	2	\N	\N		0	2010-06-22 04:37:31.770468+00	f	\N	\N
+152659	ab1b631b-9896-4433-bef9-7868bf8a42f3	Giant Tomo	Giant Tomo	\N	\N	\N	\N	\N	\N	\N	\N	\N		0	\N	f	\N	\N
+228311	66de1369-f9eb-43cb-ae4f-88582a47a624	Elvin Jones & Jimmy Garrison Sextet	Jones, Elvin & Garrison, Jimmy, Sextet	\N	\N	\N	\N	\N	\N	2	\N	\N		0	\N	f	\N	\N
+2064913	1fbb9556-b647-498a-a8ed-d3b5e8d7f85c	Tobias Lorsbach	Lorsbach, Tobias	\N	\N	\N	\N	\N	\N	1	\N	1		0	2020-10-29 11:32:33.065895+00	f	\N	\N
+1000880	e6895f6e-f636-4ff6-b406-f5ddaf6cb243	Diskobitch	Diskobitch	\N	\N	\N	\N	\N	\N	\N	\N	\N		0	2013-04-25 00:05:28.234204+00	f	\N	\N
+471075	4eee2c60-c2c8-4b33-b14f-0eed4bf4d11a	Seanews	Seanews	2001	\N	\N	\N	\N	\N	2	\N	\N		0	\N	f	\N	\N
+98827	302d69b6-4ed9-48ec-b6dd-1c70e765b327	CyberDog	CyberDog	\N	\N	\N	\N	\N	\N	\N	\N	\N		0	\N	f	\N	\N
+1182563	0a681531-3fd0-4f49-9cd9-c9e0dbc8dbf1	Serge Bec	Serge Bec	\N	\N	\N	\N	\N	\N	1	\N	1		0	2014-12-24 08:36:04.178463+00	f	\N	\N
+208149	73a9e884-168b-4c52-8d41-6ca6b2d4744a	Thirteen Over Eight	Thirteen Over Eight	\N	\N	\N	\N	\N	\N	2	\N	\N		0	2010-05-23 21:01:27.012904+00	f	\N	\N
+998553	7a420d61-01bc-4dd9-bda8-da6512630946	Astolat	Astolat	\N	\N	\N	\N	\N	\N	\N	\N	\N		0	2013-04-17 11:15:34.428288+00	f	\N	\N
+305463	0c1ad3d9-59f8-4d1d-baa6-713bae024367	The Insignificant	Insignificant, The	\N	\N	\N	\N	\N	\N	\N	\N	\N		0	\N	f	\N	\N
+931972	294f4d52-ba2e-423f-99ef-1ebf5ff3116a	The Wanderers	Wanderers, The	\N	\N	\N	\N	\N	\N	2	221	\N	UK Rockabilly group	0	2012-10-05 22:21:02.880218+00	f	\N	\N
+351358	cc9338e8-409e-4489-9e5e-847098812cc7	Project/Object	Project/Object	\N	\N	\N	\N	\N	\N	2	\N	\N	Frank Zappa tribute band	0	\N	f	\N	\N
+768072	646e7d73-5aec-4208-b568-5d804c53c736	Imagimusic	Imagimusic	\N	\N	\N	\N	\N	\N	2	\N	\N		0	2010-12-04 05:39:37.005449+00	f	\N	\N
+98829	3175ff46-8e09-4562-ace2-0e557e0fff42	Disappointment Incorporated	Disappointment Incorporated	\N	\N	\N	\N	\N	\N	\N	\N	\N		0	\N	f	\N	\N
+289489	bc81d56d-4f7c-47ab-9731-14830c766f5d	Bruno Macedo	Macedo, Bruno	1981	\N	\N	\N	\N	\N	1	\N	\N		0	\N	f	\N	\N
+99199	872a1247-c0d8-4970-b608-6752db0e532b	Stereobate	Stereobate	\N	\N	\N	\N	\N	\N	\N	\N	\N		0	\N	f	\N	\N
+1509772	9b9dd43a-d90e-4678-8408-9ccaf9f9669a	Sailing Conductors	Sailing Conductors	\N	\N	\N	\N	\N	\N	2	326	\N		0	2017-05-15 20:31:48.516467+00	f	\N	\N
+1805011	103ae4e4-a9d0-41c7-beb8-807107adca91	Organelle	Organelle	\N	\N	\N	\N	\N	\N	\N	\N	\N		0	2019-04-09 16:22:36.604363+00	f	\N	\N
+99201	b8bec4c5-b049-4ea7-874f-0ef9c712803a	Jumbo Jets	Jumbo Jets	\N	\N	\N	\N	\N	\N	\N	\N	\N		0	\N	f	\N	\N
+99203	7954c019-d253-4a7a-8e4c-0663678e26ee	Gloria Deluxe	Gloria Deluxe	\N	\N	\N	\N	\N	\N	\N	\N	\N		0	\N	f	\N	\N
+421012	ac397e3f-cacd-4afd-a67e-5e220a69847b	Q Text	Q Text	\N	\N	\N	\N	\N	\N	\N	\N	\N		0	\N	f	\N	\N
+310570	7366e2ae-f370-49cf-8504-734616bbe584	DJ Reverend	Reverend, DJ	\N	\N	\N	\N	\N	\N	1	\N	1	dub DJ/producer Claudio Mainardi	0	2015-05-27 03:35:41.460743+00	f	\N	\N
+435009	ffb8763a-9a27-4aa0-b39b-6a0d2fb8725e	Current	Current	\N	\N	\N	\N	\N	\N	2	\N	\N	Performed on Enviromental/"Soothing Sounds" albums.	0	\N	f	\N	\N
+695663	5c658f3c-0949-4222-b01b-588b7b20a596	Allison Williams	Williams, Allison	\N	\N	\N	\N	\N	\N	1	\N	\N	YouTube artist	0	2010-03-20 14:14:04.207249+00	f	\N	\N
+507716	1c2d8a03-9a9f-4424-be44-61fd5634ea1d	We Barbarians	We Barbarians	\N	\N	\N	\N	\N	\N	2	\N	\N		0	\N	f	\N	\N
+641904	118ef670-ea6a-4bfe-95a0-6a1f1691b7e7	Dr. I-Bolit	I-Bolit, Dr.	\N	\N	\N	\N	\N	\N	1	176	1		0	2015-08-13 07:55:42.550259+00	f	\N	\N
+2337751	7127f6b8-4a31-45f3-b9a9-e15b4205e573	Grvty	Grvty	\N	\N	\N	\N	\N	\N	\N	\N	\N	Project from "Gilany Stadnik"	0	2022-05-16 19:07:52.108748+00	f	\N	\N
+198909	7c2c1a99-8afb-4760-8d9d-d3825d275977	Peacemaker	Peacemaker	\N	\N	\N	\N	\N	\N	2	\N	\N	Thai pop	0	\N	f	\N	\N
+519583	a9cb07e3-d55d-403e-8ab7-9a277061b782	Softys	Softys	\N	\N	\N	\N	\N	\N	\N	\N	\N		0	\N	f	\N	\N
+100478	71bb5703-f7eb-49c5-bd19-8d6ad6a5ba7e	John Bertrand	Bertrand, John	\N	\N	\N	\N	\N	\N	\N	\N	\N		0	\N	f	\N	\N
+241569	291c184b-7e55-4bcd-a444-3addc7d24786	David Soames	Soames, David	\N	\N	\N	\N	\N	\N	1	\N	\N		0	\N	f	\N	\N
+56188	56269ecd-c35f-455d-a415-8ea34df76006	George Gao	Gao, George	1967	\N	\N	\N	\N	\N	1	44	\N		0	2011-12-22 19:56:14.673925+00	f	\N	\N
+886709	b10bc0eb-4571-444c-bb76-a61203bdc323	José Souc	Souc, José	\N	\N	\N	\N	\N	\N	\N	\N	\N		0	2012-04-22 19:01:53.809604+00	f	\N	\N
